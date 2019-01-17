@@ -1,0 +1,4 @@
+1. computers are tools
+2. the shell is powerful
+3. basic shell commands: pwd, cd, ls
+4. you can fucking edit files, but a GUI is still necessary

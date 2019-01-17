@@ -1,0 +1,14 @@
+1.  (a) cd stands for call directory which brings you to a specified directory.  Pwd stands for print working directory which will display the current directory you are accessing.
+(b) The command cd will return you to your home directory as will cd ~, and cd /c/Users/kendr
+(c) i. relative path. ii. cd data/bases
+(d)  /home
+(e) The -h and --help command can be used on any system to learn about Unix commands. However for people using Unix based operating systems can use the man command t look up the man page for specific commands.
+(f)
+   2. 	PHY494/01_shell/:
+       data/  	Documents/
+       PHY494/01_shell/data:
+       PHY494/01_shell/Documents:
+       work/
+       PHY494/01_shell/Documents/work:
+       hints.txt  lesson.txt  TODO.bak  TODO.txt
+3. The rm -rf / command will do the same thing as the rm -r command that removes all the files in the specified directory but is applied to all files on the computer. The -rf part of the command will remove all file without any prompt asking if you really want to delete that thing. The essential result is that command will erase every piece of information on the computer up the moment that it deletes the ability to delete things. Needless to say this command should never be used.
